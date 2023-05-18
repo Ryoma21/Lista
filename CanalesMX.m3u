@@ -1,0 +1,74 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,Azteca UNO
+
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 ,Azteca Más
+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 ,Azteca Cinema
+
+https://stream.ads.ottera.tv/cl/230518chivk9q7g1ogqr9e0b5g/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 ,Azteca Mundo
+
+https://stream.ads.ottera.tv/cl/230518chivlmppnj1vlnalgapg/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 ,Imagen TV
+
+https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlBydtqItlRz_X-0Kw-3v2LAZjWWj8t-nxUiw5B7NEs9)/dm/3/x82z4if/d/live-0.m3u8
+
+#EXTINF:-1 ,MVS
+
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 ,RadioFormula
+
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 ,Canal Once
+
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
+
+#EXTINF:-1 ,Mexiquense
+
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 ,UNAM
+
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1321303636_DVR.m3u8
+
+#EXTINF:-1 ,Canal 22
+
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w1191964579_b1528000_sleng.m3u8
+
+#EXTINF:-1 ,Canal 22.2
+
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w97631417_b1428000_sleng.m3u8
+
+#EXTINF:-1 ,Estrella Cine
+
+https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
+#EXTINF:-1 ,Locomotion
+
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 ,TLT
+
+https://vcp4.myplaytv.com/tlt-ve/2023.stream/playlist.m3u8
+
+#EXTINF:-1 ,WOW
+
+https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
+
+#EXTINF:-1 ,ZAZ
+
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
+#EXTINF:-1 ,Revry
+
+https://linear-142.frequency.stream/142/hls/master/playlist_1280x720.m3u8
