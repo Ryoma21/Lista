@@ -1,74 +1,102 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,Azteca UNO
+#EXTINF:-1 tvg-chno="1.3" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Azteca_Uno.png" ,Azteca UNO
 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 ,Azteca Más
+#EXTINF:-1 tvg-chno="1.4" tvg-logo="https://www.dafont.com/forum/attach/orig/7/3/735902.png" ,Azteca Más
 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 ,Azteca Cinema
+#EXTINF:-1 tvg-chno="1.5" tvg-logo="https://www.orotv.es/images/2020/canales-azcinema.png" ,Azteca Cinema
 
 https://stream.ads.ottera.tv/cl/230518chivk9q7g1ogqr9e0b5g/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 ,Azteca Mundo
+#EXTINF:-1 tvg-chno="1.6" tvg-logo=" ,Azteca Mundo
 
 https://stream.ads.ottera.tv/cl/230518chivlmppnj1vlnalgapg/1280x720_3071200_0_f.m3u8
 
-#EXTINF:-1 ,Imagen TV
+#EXTINF:-1 tvg-chno="3.1" tvg-logo=" ,Imagen TV
 
 https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlBydtqItlRz_X-0Kw-3v2LAZjWWj8t-nxUiw5B7NEs9)/dm/3/x82z4if/d/live-0.m3u8
 
-#EXTINF:-1 ,MVS
+#EXTINF:-1 tvg-chno="51.1" tvg-logo=" ,MVS
 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 ,RadioFormula
+#EXTINF:-1 tvg-chno="14.1" tvg-logo=" ,RadioFormula
 
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 ,Canal Once
+#EXTINF:-1 tvg-chno="11.1",Canal Once
 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
-#EXTINF:-1 ,Mexiquense
+#EXTINF:-1 tvg-chno="34.1",Mexiquense
 
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
-#EXTINF:-1 ,UNAM
+#EXTINF:-1 tvg-chno="20.1",UNAM
 
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1321303636_DVR.m3u8
 
-#EXTINF:-1 ,Canal 22
+#EXTINF:-1 tvg-chno="22.1",Canal 22
 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w1191964579_b1528000_sleng.m3u8
 
-#EXTINF:-1 ,Canal 22.2
+#EXTINF:-1 tvg-chno="22.2",Canal 22.2
 
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w97631417_b1428000_sleng.m3u8
 
-#EXTINF:-1 ,Estrella Cine
+#EXTINF:-1 tvg-chno="15.1",Estrella Cine
 
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
-#EXTINF:-1 ,Locomotion
+#EXTINF:-1 tvg-chno="16.1",Locomotion
 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 ,TLT
+#EXTINF:-1 tvg-chno="16.2",TLT
 
 https://vcp4.myplaytv.com/tlt-ve/2023.stream/playlist.m3u8
 
-#EXTINF:-1 ,WOW
+#EXTINF:-1 tvg-chno="16.3",WOW
 
 https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
 
-#EXTINF:-1 ,ZAZ
+#EXTINF:-1 tvg-chno="16.4",ZAZ
 
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
-#EXTINF:-1 ,Revry
+#EXTINF:-1 tvg-chno="16.5",Revry
 
 https://linear-142.frequency.stream/142/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="21.1" tvg-logo="https://i.imgur.com/8ign49i.png" ,Capital 21
+
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-chno="15.2" tvg-logo="https://i.imgur.com/IZxjnyp.png" ,Estrella TV
+
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="40.1" tvg-logo="https://i.imgur.com/WIeZMKT.png" ,Kanal D Drama
+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="40.2" tvg-logo="" ,MyTime movie network Mexico
+
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="40.3" tvg-logo="https://i.imgur.com/aTcJ5p3.png" ,SEO TV Películas
+
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-chno="9.2" tvg-logo="https://i.imgur.com/7UsilfH.png" ,Televisa Veracruz
+
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+
+#EXTINF:-1 tvg-chno="60.1" tvg-logo="https://i.ibb.co/wgPCgWy/descarga.png" ,ViX Cine Club
+
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
