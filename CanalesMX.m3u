@@ -100,3 +100,23 @@ https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 tvg-chno="60.1" tvg-logo="https://i.ibb.co/wgPCgWy/descarga.png" ,ViX Cine Club
 
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="60.2" ,Horrorfy
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
+
+#EXTINF-1 tvg-chno="60.3" ,Tu Cine
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="60.4" ,Saber Más
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/fc45ecd1-9275-44c3-bbc9-53cf0cb6ef7e/2.m3u8
+
+#EXTINF:-1 tvg-chno="60.5" ,FreeTV
+
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+
+#EXTINF:-1 tvg-chno="60.6" , Top Cine
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
